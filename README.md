@@ -1,7 +1,5 @@
 # Bienvenido a mi Central. 
 
-### Estudiante de Ing. en Tecnologías de la Información  | YouTuber | Apasionado de los Videojuegos y la Ciencia Ficción
-
 Soy un apasionado amateur del ecosistema **Linux** (fiel usuario de **Fedora y LMDE**). Actualmente enfocado en perfeccionar mis habilidades en desarrollo de software y administración de servidores.
 
 ---
@@ -15,7 +13,7 @@ Soy un apasionado amateur del ecosistema **Linux** (fiel usuario de **Fedora y L
 ---
 ### 🛠️ Tecnologías y Herramientas
 
-* **Lenguajes:** Java, TypeScript, SQL.
+* **Lenguajes:** Java, C++, TypeScript, SQL.
 * **Bases de Datos:** SQL Server, MySQL, PostgreSQL (con experiencia en Linked Servers y replicación).
 * **DevOps & OS:** Fedora Silverblue / Workstation, Virtualización de clústeres, Postfix/Dovecot.
 * **Herramientas:** Prisma ORM, Git, Orange (Data Mining).
