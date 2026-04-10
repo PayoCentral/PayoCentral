@@ -3,6 +3,8 @@
 Soy un apasionado amateur del ecosistema **Linux** (fiel usuario de **Fedora y LMDE**). Actualmente enfocado en perfeccionar mis habilidades en desarrollo de software y administración de servidores.
 
 ---
+[![Dhyey's video stats](https://youtube-stats-card.vercel.app/api/video?videoid=@PayoCentral)](https://youtube/@PayoCentral)
+---
 ### Redes Sociales y Contacto🛜
 
 * **Twitter:** [twitter.com/@PayoCentral](https://x.com/@PayoCentral)
