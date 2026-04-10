@@ -1,16 +1,40 @@
-## Hi there 👋
+# Bienvenido a la Central de Payo.
 
-<!--
-**PayoCentral/PayoCentral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Estudiante de Ing. en Tecnologías de la Información  | YouTuber | Apasionado de los Videojuegos y la Ciencia Ficción
 
-Here are some ideas to get you started:
+Soy un apasionado amateur del ecosistema **Linux** (fiel usuario de **Fedora y LMDE** ). Actualmente enfocado en perfeccionar mis habilidades en desarrollo de software y administración de servidores.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### Redes Sociales 🛜
+
+* **Twitter:** [twitter.com/@PayoCentral](x.com/@PayoCentral)
+* **YouTube:** [youtube.com/@PayoCentral](youtube.com/@PayoCentral)
+* * **LinkedIn:** [linkedin.com/in/payocentral](https://www.linkedin.com/in/payocentral/)
+
+---
+### 🛠️ Tecnologías y Herramientas
+
+* **Lenguajes:** Java, TypeScript, SQL.
+* **Bases de Datos:** SQL Server, MySQL, PostgreSQL (con experiencia en Linked Servers y replicación).
+* **DevOps & OS:** Fedora Silverblue / Workstation, Virtualización de clústeres, Postfix/Dovecot.
+* **Herramientas:** Prisma ORM, Git, Orange (Data Mining).
+
+---
+
+### 🚀 Proyectos en desarrollo
+
+* **maestro QR:** Aplicación móvil para el almacenamiento y visualización de tarjetas digitales (QR y códigos de barras).
+* **La Central:** Blog online enfocado en compartir descuentos. Proyecto desarrollado con Prisma y TypeScript.
+* **GameLog:** Un sistema inspirado en Letterboxd pero enfocado 100% en videojuegos. 🎮
+
+---
+
+### 📊 Estadísticas de GitHub
+
+![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=radical)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=radical)
+
+---
+
+
+*"Haz lo que tu mente y corazon digan. Expresa tus ideas siempre."* 🐧
