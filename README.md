@@ -7,9 +7,9 @@ Soy un apasionado amateur del ecosistema **Linux** (fiel usuario de **Fedora y L
 ---
 ### Redes Sociales 🛜
 
-* **Twitter:** [twitter.com/@PayoCentral](x.com/@PayoCentral)
-* **YouTube:** [youtube.com/@PayoCentral](youtube.com/@PayoCentral)
-* * **LinkedIn:** [linkedin.com/in/payocentral](https://www.linkedin.com/in/payocentral/)
+* **Twitter:** [twitter.com/@PayoCentral](https://x.com/@PayoCentral)
+* **YouTube:** [youtube.com/@PayoCentral](https://youtube.com/@PayoCentral)
+* **LinkedIn:** [linkedin.com/in/payocentral](https://www.linkedin.com/in/payocentral/)
 
 ---
 ### 🛠️ Tecnologías y Herramientas
