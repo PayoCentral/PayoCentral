@@ -4,7 +4,7 @@ Soy un apasionado amateur del ecosistema **Linux** (fiel usuario de **Fedora y L
 
 ---
 ## Checa mi video más reciente:
-[![Dhyey's video stats](https://youtube-stats-card.vercel.app/api/video?videoid=WBsbIvmq7DYtheme=algolia)](https://youtu.be/WBsbIvmq7DY)
+[![Dhyey's video stats](https://youtube-stats-card.vercel.app/api/video?videoid=WBsbIvmq7DY&theme=algolia)](https://youtu.be/WBsbIvmq7DY)
 ---
 ### Redes Sociales y Contacto🛜
 
