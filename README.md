@@ -28,12 +28,4 @@ Soy un apasionado amateur del ecosistema **Linux** (fiel usuario de **Fedora y L
 
 ---
 
-### 📊 Estadísticas de GitHub
-
-![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=radical)
-
----
-
-
 *"Haz lo que tu mente y corazon digan. Expresa tus ideas siempre."* 🐧
