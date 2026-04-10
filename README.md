@@ -1,15 +1,16 @@
-# Bienvenido a la Central de Payo.
+# Bienvenido a mi Central. 
 
 ### Estudiante de Ing. en Tecnologías de la Información  | YouTuber | Apasionado de los Videojuegos y la Ciencia Ficción
 
-Soy un apasionado amateur del ecosistema **Linux** (fiel usuario de **Fedora y LMDE** ). Actualmente enfocado en perfeccionar mis habilidades en desarrollo de software y administración de servidores.
+Soy un apasionado amateur del ecosistema **Linux** (fiel usuario de **Fedora y LMDE**). Actualmente enfocado en perfeccionar mis habilidades en desarrollo de software y administración de servidores.
 
 ---
-### Redes Sociales 🛜
+### Redes Sociales y Contacto🛜
 
 * **Twitter:** [twitter.com/@PayoCentral](https://x.com/@PayoCentral)
 * **YouTube:** [youtube.com/@PayoCentral](https://youtube.com/@PayoCentral)
 * **LinkedIn:** [linkedin.com/in/payocentral](https://www.linkedin.com/in/payocentral/)
+* **Contacto:** [payocentral@gmail.com](emailto:payocentral@gmail.com)
 
 ---
 ### 🛠️ Tecnologías y Herramientas
